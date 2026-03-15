@@ -4,7 +4,7 @@ Plano de estudos pessoal para transição de carreira para a área de **Cloud & 
 
 > **14 semanas · 2 horas por dia · 84 tarefas com checklist interativo**
 
-🔗 **[Abrir plano interativo](https://plano-cloud-devops.vercel.app/)**
+🔗 **[Abrir plano interativo](https://markosluciano.github.io/plano-cloud-devops/)**
 
 ## 👨‍💻 Sobre
 
